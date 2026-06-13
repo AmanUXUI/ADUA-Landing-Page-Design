@@ -1,6 +1,15 @@
+# Initialize git if you haven't already
 git init
-git remote add origin https://github.com/AmanUXUI/ADUA-Landing-Page-Design.git
-git branch -M main
+
+# Add the files to your staging area
 git add .
-git commit -m "Initial commit from AI Studio Build"
-git push -u origin main
+
+# Create a commit
+git commit -m "Deploy ADUA Landing Page update"
+
+# Link to your remote GitHub repository
+git remote add origin https://github.com/AmanUXUI/ADUA-Landing-Page-Design.git
+
+# Set your branch and push
+git branch -M main
+git push -u origin main --force
