@@ -1,0 +1,8 @@
+{
+  "name": "ADUA Academy",
+  "description": "Launch Your Aviation Career with a UGC-Recognized BBA Degree at ADUA Academy. Explore high-growth careers in Aviation, Airport Management, Hospitality, Cargo, Safety, and Drone Technology.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
